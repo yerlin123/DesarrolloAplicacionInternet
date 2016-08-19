@@ -1,0 +1,48 @@
+		#header {
+			background-color:blue;
+			color:black;
+			text-align:center;
+			padding:5px;
+		}
+		#nav {
+			line-height:30px;
+			background-color:#eeeeee;
+			height:300px;
+			width:100px;
+			float:left;
+			padding:5px;
+		}
+		#section {
+			width:350px;
+			float:left;
+			7
+			padding:10px;
+		}
+		#footer {
+			background-color:blue;
+			color:white;
+			clear:both;
+			text-align:center;
+			padding:5px;
+		}
+		#imagen1 {
+			text-align:center;
+			height:300px;
+			width:300px;
+			margin: center;
+		}
+		#p {
+			color:blue;
+			clear:both;
+			text-align:center;
+			padding:5px;
+		}
+		#imagen {
+ 	text-align:center;
+        }
+        #fooster {
+			color:black;
+			clear:both;
+			text-align:center;
+			padding:5px;
+		}
